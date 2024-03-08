@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\application\\dtos\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\application\\dtos\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\application\\user\\userapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\application\\user\\userapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\application\\interface\\iuserapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\application\\interface\\iuserapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\core\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\core\\interfaces\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\application\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\application\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\application\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\application\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\infrastructure\\repository\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\infrastructure\\repository\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\core\\services\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\core\\services\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\core\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\core\\entities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\infrastructure\\repository\\user\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\infrastructure\\repository\\user\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\migrations\\20240308033629_initialidentitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\migrations\\20240308033629_initialidentitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|c:\\users\\guhhh\\onedrive\\\u00E1rea de trabalho\\gladiatus2\\webapplication1\\webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D75982EA-C3BE-4CF8-9AB4-3C61908BE2E9}|WebApplication1\\Gladiatus.csproj|solutionrelative:webapplication1\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Common\\Result.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Common\\Result.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Common\\Result.cs",
+              "RelativeToolTip": "WebApplication1\\Common\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:29:13.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserApiService.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Application\\Interface\\IUserApiService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Application\\Interface\\IUserApiService.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Application\\Interface\\IUserApiService.cs",
+              "RelativeToolTip": "WebApplication1\\Application\\Interface\\IUserApiService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:00:24.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Setup.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Application\\Setup.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Application\\Setup.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Application\\Setup.cs",
+              "RelativeToolTip": "WebApplication1\\Application\\Setup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:01:27.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Setup.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Core\\Services\\Setup.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Core\\Services\\Setup.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Core\\Services\\Setup.cs",
+              "RelativeToolTip": "WebApplication1\\Core\\Services\\Setup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T03:56:39.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserApiService.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Application\\User\\UserApiService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Application\\User\\UserApiService.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Application\\User\\UserApiService.cs",
+              "RelativeToolTip": "WebApplication1\\Application\\User\\UserApiService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAMwBcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T03:57:54.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Core\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Core\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Core\\Services\\UserService.cs",
+              "RelativeToolTip": "WebApplication1\\Core\\Services\\UserService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAApwB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T03:54:23.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:02:19.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateUser.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Application\\Dtos\\CreateUser.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Application\\Dtos\\CreateUser.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Application\\Dtos\\CreateUser.cs",
+              "RelativeToolTip": "WebApplication1\\Application\\Dtos\\CreateUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:16:17.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Application\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Application\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Application\\MappingProfile.cs",
+              "RelativeToolTip": "WebApplication1\\Application\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T04:19:54.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Core\\Interfaces\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Core\\Interfaces\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Core\\Interfaces\\Services\\IUserService.cs",
+              "RelativeToolTip": "WebApplication1\\Core\\Interfaces\\Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T03:55:41.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Core\\Entities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Core\\Entities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Core\\Entities\\ApplicationUser.cs",
+              "RelativeToolTip": "WebApplication1\\Core\\Entities\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T03:30:32.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T03:11:19.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Infrastructure\\Repository\\User\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Infrastructure\\Repository\\User\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Infrastructure\\Repository\\User\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Infrastructure\\Repository\\User\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T03:23:50.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Setup.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Infrastructure\\Repository\\Setup.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Infrastructure\\Repository\\Setup.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Infrastructure\\Repository\\Setup.cs",
+              "RelativeToolTip": "WebApplication1\\Infrastructure\\Repository\\Setup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T03:51:27.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T03:11:24.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240308033629_InitialIdentityMigration.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Migrations\\20240308033629_InitialIdentityMigration.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240308033629_InitialIdentityMigration.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\Migrations\\20240308033629_InitialIdentityMigration.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240308033629_InitialIdentityMigration.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T03:36:31.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-08T03:18:07.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\guhhh\\OneDrive\\\u00C1rea de Trabalho\\Gladiatus2\\WebApplication1\\WebApplication1\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication1\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T03:11:18.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
